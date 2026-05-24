@@ -32,4 +32,3 @@ We calculated the exact Return on Investment (ROI) percentage for each individua
 - **Reinvest heavily in Email & Affiliate:** Immediately shift underperforming ad spend into our high-yield Email Marketing and Affiliate pipelines to maximize revenue.
 - **Cut Social Media Spending:** Scale down the Social Media ad budget by 30-40% to stop the financial loss. Pause underperforming campaigns and fix user targeting before spending more money there.
 - **Maintain Google Ads:** Keep the current budget for Google Ads stable, but optimize search keywords to lower the cost per sale.
--
